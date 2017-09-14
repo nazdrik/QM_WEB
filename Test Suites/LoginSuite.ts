@@ -16,11 +16,35 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/LoginFunctionalityTests/FB_LoginTest</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>90a1366e-6c80-4d5b-b544-32aee360d53f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a83b31f0-5500-43f4-b108-6414e148d5fb</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>0603a5d2-7818-463e-9d61-925059d8d76d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/LoginFunctionalityTests/LoginTest</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>de73f16a-649d-464e-a523-89366e7012d5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>fcbbd2ef-e988-4722-b609-7fd30e5e7794</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

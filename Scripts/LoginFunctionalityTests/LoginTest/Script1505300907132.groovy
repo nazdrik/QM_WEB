@@ -25,9 +25,9 @@ WebUI.navigateToUrl('https://qmdev.quickblox.com/')
 
 WebUI.click(findTestObject('LoginPage/button_login by email or socia'))
 
-WebUI.setText(findTestObject('LoginPage/input_login-email'), 'nazdrik@dmail.com')
+WebUI.setText(findTestObject('LoginPage/input_login-email'), Email_login)
 
-WebUI.setText(findTestObject('LoginPage/input_login-password'), '12345678')
+WebUI.setText(findTestObject('LoginPage/input_login-password'), Email_password)
 
 WebUI.click(findTestObject('LoginPage/button_log in'))
 

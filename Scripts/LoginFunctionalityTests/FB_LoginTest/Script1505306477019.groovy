@@ -29,9 +29,9 @@ WebUI.click(findTestObject('LoginPage/button_log in with facebook'))
 
 WebUI.switchToWindowTitle('Facebook')
 
-WebUI.setText(findTestObject('Page_Facebook/input_email'), 'nazdrikbelka@ukr.net')
+WebUI.setText(findTestObject('Page_Facebook/input_email'), FB_login)
 
-WebUI.setText(findTestObject('Page_Facebook/input_pass'), '3UKLIjU99r')
+WebUI.setText(findTestObject('Page_Facebook/input_pass'), FB_password)
 
 WebUI.click(findTestObject('Page_Facebook/label_loginbutton'))
 

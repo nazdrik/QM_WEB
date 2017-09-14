@@ -5,4 +5,16 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>d507b33f-667b-405b-8dd6-cc8ff7da1743</testCaseGuid>
+   <variable>
+      <defaultValue>'nazdrikbelka@ukr.net'</defaultValue>
+      <description></description>
+      <id>90a1366e-6c80-4d5b-b544-32aee360d53f</id>
+      <name>FB_login</name>
+   </variable>
+   <variable>
+      <defaultValue>'3UKLIjU99r'</defaultValue>
+      <description></description>
+      <id>a83b31f0-5500-43f4-b108-6414e148d5fb</id>
+      <name>FB_password</name>
+   </variable>
 </TestCaseEntity>
